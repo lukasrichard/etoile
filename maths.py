@@ -37,6 +37,6 @@ for b in range(100):
     Couleur()
     Triangle(l)
     mainloop
-print("zizi")
+
 
 
